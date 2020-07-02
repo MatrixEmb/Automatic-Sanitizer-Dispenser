@@ -154,6 +154,12 @@ footer{
 
 
 @media screen and (max-width: 600px){
+    .main h1{
+    text-align: center;
+    }
+    .main a{
+    margin-left: 80px;
+    }
     .working{
    padding: 2% 0% 2% 8%;
     }
