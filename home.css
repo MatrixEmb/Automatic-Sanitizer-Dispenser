@@ -154,10 +154,13 @@ footer{
 
 
 @media screen and (max-width: 600px){
+    .working{
+   margin: 2% 5% 2% 5%;
+    }
     .le{
     height: 300px;
     width: 200px;
-    margin: 0 0 5px 0;
+    margin: 0 0 5px 60px;
     }
     .step{
     width:100%;
