@@ -155,7 +155,7 @@ footer{
 
 @media screen and (max-width: 600px){
     .working{
-   margin: 2% 5% 2% 5%;
+   padding: 2% 5% 2% 5%;
     }
     .le{
     height: 300px;
